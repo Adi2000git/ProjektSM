@@ -1,0 +1,18 @@
+
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¡ÝÕûÿÿÿÿ
+>
+java:S1604`"(Make this anonymous inner class a lambda(îë Ì
+>
+java:S1604Y"(Make this anonymous inner class a lambda(Çèº™
+D
+java:S1604‰"(Make this anonymous inner class a lambda(Ô˜¬Ÿüÿÿÿÿ
+U
+java:S1161F":Add the "@Override" annotation above this method signature(¨ÿÊÊûÿÿÿÿ
+T
+java:S1854n"9Remove this useless assignment to local variable "alert".(×¹¢³úÿÿÿÿ
+Q	java:S125h"<This block of commented-out lines of code should be removed.(¬ßÑ¨
+E
+java:S1481n"*Remove this unused "alert" local variable.(×¹¢³úÿÿÿÿ
+Q	java:S125q"<This block of commented-out lines of code should be removed.(¬ßÑ¨
+R	java:S125"<This block of commented-out lines of code should be removed.(¬ßÑ¨
+W	java:S125š"<This block of commented-out lines of code should be removed.(¸–© ýÿÿÿÿ

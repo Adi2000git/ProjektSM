@@ -1,0 +1,30 @@
+
+>
+java:S16049"(Make this anonymous inner class a lambda(´æº
+f	java:S116"QRename this field "last_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äĞ¶
+f	java:S116 "QRename this field "last_y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ã¡³
+k	java:S116!"QRename this field "last_z" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‘¡—ùÿÿÿÿ
+—
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïÁƒ
+—
+java:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨‰ïÃ
+k
+java:S1450"PRemove the "x" field and declare it as a local variable in the relevant methods.(İœ°ıÿÿÿÿ
+k
+java:S1450"PRemove the "y" field and declare it as a local variable in the relevant methods.(›‚®ûÿÿÿÿ
+k
+java:S1450"PRemove the "z" field and declare it as a local variable in the relevant methods.(ÎĞüüüÿÿÿÿ
+L
+java:S1874"6Remove this use of "SensorListener"; it is deprecated.(ËŒ½î
+N
+java:S1874+"8Remove this use of "registerListener"; it is deprecated.(º„â
+R
+java:S1874,"<Remove this use of "SENSOR_ACCELEROMETER"; it is deprecated.(¸ßîñ
+W
+java:S1874F"<Remove this use of "SENSOR_ACCELEROMETER"; it is deprecated.(À¤…úÿÿÿÿ
+I
+java:S1874M".Remove this use of "DATA_X"; it is deprecated.(Õ®’ôüÿÿÿÿ
+I
+java:S1874N".Remove this use of "DATA_Y"; it is deprecated.(ÍÇäÈüÿÿÿÿ
+D
+java:S1874O".Remove this use of "DATA_Z"; it is deprecated.(•ªÿÿ

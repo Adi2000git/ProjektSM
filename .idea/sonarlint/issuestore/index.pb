@@ -1,0 +1,27 @@
+
+i
+9app/src/main/java/com/example/sm_projekt/models/Note.java,6\2\62df9902c2d2bcdd5f06bd88e3a354d781b7ee5d
+u
+Eapp/src/main/java/com/example/sm_projekt/adapters/ArchiveAdapter.java,9\8\985ff862a34f717efd81cdfdddfa1bf90d18ac82
+{
+Kapp/src/main/java/com/example/sm_projekt/adapters/OnSwipeTouchListener.java,5\4\54765673eeb2d076950ab2f0fec29d8a65c4d61a
+p
+@app/src/main/java/com/example/sm_projekt/handlers/DBHandler.java,2\2\220c705981b28a6ab763f8788299a6c219ba801d
+j
+:app/src/main/java/com/example/sm_projekt/MainActivity.java,d\7\d768332b64f12271814e97307686dbfc5a95fcdc
+x
+Happ/src/main/java/com/example/sm_projekt/activities/ArchiveActivity.java,8\7\875da751c52306c8e23c69905ab98539b56b92cf
+w
+Gapp/src/main/java/com/example/sm_projekt/activities/DeleteActivity.java,4\9\492f6d10d2a42fbdcfe61775cdba18e62e0032e8
+x
+Happ/src/main/java/com/example/sm_projekt/activities/DetailsActivity.java,1\0\109e269a7d7fcc63d77e979aa4c3ad88517979a1
+y
+Iapp/src/main/java/com/example/sm_projekt/activities/EditNoteActivity.java,b\a\ba190404d366fac65eae39dfdd2d65bff516f0be
+u
+Eapp/src/main/java/com/example/sm_projekt/activities/ListActivity.java,3\5\35dd33514adee031b6510441786b7a313177711c
+v
+Fapp/src/main/java/com/example/sm_projekt/adapters/RecyclerAdapter.java,0\7\07f8927ef56256b102b1f68025c0ae39279954f9
+r
+Bapp/src/main/java/com/example/sm_projekt/adapters/ListAdapter.java,4\4\4444de1b0b6e465906e9b728518dcba21e07f5d5
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
